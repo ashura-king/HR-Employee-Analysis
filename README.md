@@ -7,8 +7,7 @@ groups should HR focus on to reduce attrition?
 ## Dataset
 HR Data Set (HRDataset_v14) from Kaggle, created by
 Dr. Carla Patalano and Dr. Rich Huebner. This is a synthetic
-(fictional) dataset created for learning, so no real employees
-are represented. Source: [link to the Kaggle page]
+(fictional) Source: [link to the Kaggle page]
 
 ## What I cleaned
 - Removed hidden spaces: Department (209 rows), Sex (135),
